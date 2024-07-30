@@ -152,7 +152,7 @@ body {
 }
 
 .section-heading h6 {
-  color: #7a6ad8;
+  color: #E63946;
   font-size: 14px;
   text-transform: uppercase;
   font-weight: 600;
@@ -160,8 +160,8 @@ body {
 
 .main-button a {
   display: inline-block;
-  background-color: #fff;
-  color: #1D3557;
+  background-color: #457B9D;
+  color: #F1FAEE;
   font-size: 14px;
   font-weight: 500;
   height: 40px;
@@ -172,8 +172,9 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #A8DADC;
-  color: #fff;
+  background-color: #F1FAEE;
+  color: #457B9D;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15)
 }
 
 /* 
@@ -756,7 +757,7 @@ Banner Style
 
 
 .main-banner .item .buttons .icon-button i {
-  color: #7a6ad8;
+  color: #457B9D;
   background-color: #fff;
   display: inline-block;
   height: 50px;
@@ -829,7 +830,7 @@ Services Style
   display: inline-block;
   text-align: center;
   line-height: 190px;
-  background-color: #7a6ad8;
+  background-color: #E63946;
   border-radius: 50%;
   position: absolute;
   right: 0;
@@ -844,7 +845,7 @@ Services Style
 .services .service-item .main-content {
   border-radius: 25px;
   padding: 80px 30px 50px 30px;
-  background-color: #f1f0fe;
+  background-color: #A8DADC;
   margin-bottom: 30px;
   margin-right: 80px;
   transition: all .4s;
@@ -892,7 +893,7 @@ About Style
 .accordion {
   margin-top: -40px;
   margin-bottom: -40px;
-  background-color: #7a6ad8;
+  background-color: #457B9D;
   border-radius: 40px;
   padding: 80px 50px 50px 50px;
 }
@@ -911,7 +912,7 @@ About Style
 }
 
 .accordion-button:not(.collapsed) {
-  color: #7a6ad8;
+  color: #E63946;
   background-color: #fff;
 }
 
@@ -933,7 +934,7 @@ h2.accordion-header button {
   text-align: center;
   line-height: 30px;
   border-radius: 50%;
-  background-color: #7a6ad8;
+  background-color: #E63946;
   color: #fff;
 }
 
