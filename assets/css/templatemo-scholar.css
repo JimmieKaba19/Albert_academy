@@ -250,7 +250,7 @@ Pre-loader Style
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #7a6ad8;
+  background: #F1FAEE;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
@@ -273,8 +273,16 @@ Pre-loader Style
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #7a6ad8;
+  background: #457B9D;
   border-radius: 50%;
+}
+
+.preloader-inner .dots span:nth-child(2){
+  background: #E63946;
+}
+
+.preloader-inner .dots span:nth-child(3){
+  background: #1D3557;
 }
 
 /* 
