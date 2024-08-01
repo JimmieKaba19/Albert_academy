@@ -1008,7 +1008,7 @@ Courses Style
 
 .event_filter li a.is_active,
 .event_filter li a:hover {
-  color: #7a6ad8;
+  color: #E63946;
 }
 
 .events_item .thumb {
@@ -1027,7 +1027,7 @@ Courses Style
   top: 30px;
   font-size: 14px;
   text-transform: uppercase;
-  color: #7a6ad8;
+  color: #E63946;
   background-color: rgba(250, 250, 250, 0.95);
   padding: 8px 20px;
   border-radius: 25px;
@@ -1039,7 +1039,7 @@ Courses Style
   position: absolute;
   right: -30px;
   top: -50px;
-  background-color: rgba(122, 106, 216, 0.95);
+  background-color: #1D3557;
   width: 130px;
   height: 130px;
   border-radius: 50%;
@@ -1077,7 +1077,7 @@ Courses Style
 }
 
 .events_item .down-content span.author {
-  color: #7a6ad8;
+  color: #E63946;
   font-size: 15px;
   display: inline-block;
   margin-bottom: 6px;
@@ -1090,7 +1090,7 @@ Courses Style
 }
 
 .events_item:hover .down-content h4 {
-  color: #7a6ad8;
+  color: #457B9D;
 }
 
 .events_item:hover .thumb span.price {
@@ -1118,7 +1118,7 @@ Facts Style
   z-index: -1;
   width: 95%;
   height: 100%;
-  background-color: #7a6ad8;
+  background-color: #1D3557;
   content: '';
   border-top-right-radius: 500px;
   border-bottom-right-radius: 500px;
