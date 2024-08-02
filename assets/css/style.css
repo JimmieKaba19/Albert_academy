@@ -1197,7 +1197,7 @@ Team Style
 }
 
 .team-member .main-content span.category {
-  color: #7a6ad8;
+  color: #E63946;
   font-size: 15px;
 }
 
@@ -1215,7 +1215,7 @@ Team Style
 
 .team-member .main-content ul li a {
   background-color: #fff;
-  color: #7a6ad8;
+  color: #1D3557;
   display: inline-block;
   text-align: center;
   line-height: 40px;
@@ -1269,7 +1269,7 @@ Testimonials Style
 }
 
 .testimonials .item {
-  background-color: #7a6ad8;
+  background-color: #457B9D;
   border-radius: 25px;
   padding: 80px;
 }
@@ -1319,7 +1319,7 @@ Testimonials Style
   line-height: 50px;
   font-size: 24px;
   display: inline-block;
-  color: #7a6ad8;
+  color: #1D3557;
   background-color: #fff;
   border-radius: 50%;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.10);
@@ -1479,7 +1479,7 @@ Contact Style
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #7a6ad8;
+  background-color: #1D3557;
   width: 80px;
   padding: 30px 8px;
   line-height: 25px;
@@ -1509,7 +1509,7 @@ Contact Style
 
 .contact-us .special-offer h6 em {
   font-style: normal;
-  color: #7a6ad8;
+  color: #E63946;
   font-weight: 600;
 }
 
@@ -1520,7 +1520,7 @@ Contact Style
 
 .contact-us .special-offer h4 em {
   font-style: normal;
-  color: #7a6ad8;
+  color: #457B9D;
 }
 
 .contact-us .special-offer a {
@@ -1532,7 +1532,7 @@ Contact Style
   display: inline-block;
   text-align: center;
   line-height: 50px;
-  background-color: #7a6ad8;
+  background-color: #1D3557;
   color: #fff;
   border-radius: 50%;
 }
@@ -1540,7 +1540,7 @@ Contact Style
 .contact-us .contact-us-content {
   border-radius: 25px;
   padding: 80px;
-  background-color: #7a6ad8;
+  background-color: #457B9D;
   position: relative;
   z-index: 1;
 }
@@ -1617,7 +1617,7 @@ Contact Style
   background-color: #fff;
   padding: 0px 25px;
   border-radius: 25px;
-  color: #7a6ad8;
+  color: #457B9D;
   transition: all .4s;
   position: relative;
   z-index: 3;
@@ -1661,7 +1661,7 @@ Footer Style
 footer {
   margin-top: 150px;
   position: relative;
-  background-color: #7a6ad8;
+  background-color: #457B9D;
   vertical-align: middle;
   min-height: 150px;
   border-radius: 150px 150px 0px 0px;
